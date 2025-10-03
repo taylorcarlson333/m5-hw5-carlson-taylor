@@ -27,7 +27,7 @@ body {
 
 .nav a {
   text-decoration: none;
-  color: #555; 
+  color: #eee;
   font-weight: bold;
 }
 
@@ -75,6 +75,7 @@ body {
   text-align: center;
   font-size: 28px;
   margin-bottom: 40px;
+  color: #333;
 }
 
 input,
@@ -116,7 +117,7 @@ textarea:focus {
 .footer {
   margin-top: auto;
   background-color: #333;
-  color: #555;
+  color: #eee;
   padding: 20px;
   text-align: center;
   font-size: 14px;
