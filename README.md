@@ -1,4 +1,4 @@
-# Auditng for A11y
+# Auditng for A11y Using Lighthouse on Google Chrome
 ## Accessibility Issue 1:
 Heading elements are not in a sequentially-descending order
 ## Failing Element: 
