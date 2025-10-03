@@ -9,13 +9,13 @@ Changed h3 to h2 to fit the sequentially-descending order
 ## Accessibility Issue 2: 
 Background and foreground colors do not have a sufficient contrast ratio
 ## Failing Elements: 
-1. <a href="#"> in <div class="nav">
-2. <h3> in <div class="form-section">
-3. <div class="footer">
+1. nav a class
+2. form section a class
+3. footer class
 ## Fix:
 1. Changed the color to #eee in "nav a" class to have the links show clearer against the dark color background.
 2. Changed the color to #333 in form-section h3 to appear darker against light background.
 3. Changed the color to #eee in footer to show clearer against the dark color background.
 
 ## Outcome:
-![Picture](Accessbility_Issues.png)
+![Picture](Accessibility_Issues.png)
